@@ -2,3 +2,8 @@ body {
   background-color: gray;
   font-size: 130%;
 }
+
+h2 {
+  color: #000;
+  font-size: 52px;
+}
